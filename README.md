@@ -1,8 +1,11 @@
 # Text Titan
 
-**Text Titan** is a simple and efficient text editor application built using Python and Tkinter. It provides essential text editing functionalities along with additional features to enhance the user experience. 
+**Text Titan** is a simple and efficient text editor application built using Python and Tkinter. It provides essential text editing functionalities along with additional features to enhance the user experience.
 
-## Features
+
+[texteditor](https://github.com/user-attachments/assets/b8b04b83-d0fe-42b9-ba95-40869f981b64)
+
+## Features!
 
 - **File Operations**: 
   - **Open**: Open and read text files.
@@ -44,7 +47,5 @@
 
 To run the application, ensure you have Python installed on your system along with the Tkinter library. 
 
-## Screenshot
 
-![Text Titan Screenshot](C:\Users\User\OneDrive\Pictures\Screenshots\texteditor.png)
 
