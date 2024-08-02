@@ -43,3 +43,8 @@
 ## Installation
 
 To run the application, ensure you have Python installed on your system along with the Tkinter library. 
+
+## Screenshot
+
+![Text Titan Screenshot](C:\Users\User\OneDrive\Pictures\Screenshots\texteditor.png)
+
