@@ -21,6 +21,8 @@
 
 - **Word Count**: Count and display the number of words, characters, and lines in the current document.
 
+- **Tabbed Interface**: Open multiple documents in separate tabs for easy navigation and editing.
+
 ## Usage
 
 1. **Open the Application**: Launch the Text Titan application.
@@ -28,6 +30,7 @@
 3. **Edit Text**: Utilize the `Edit` menu for cutting, copying, and pasting text.
 4. **Change Themes**: Switch between different themes using the `Settings` menu.
 5. **Word Count**: Get word count statistics from the `Tools` menu.
+6. **Tabbed Interface**: Open multiple files in separate tabs and switch between them easily.
 
 ## Keyboard Shortcuts
 
